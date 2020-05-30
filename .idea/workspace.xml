@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fb515b5f-6a87-4173-80c6-cf98002a20ec" name="Default Changelist" comment="" />
+    <list default="true" id="fb515b5f-6a87-4173-80c6-cf98002a20ec" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RedPacket/RedPacket.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RedPacket/RedPacket.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,15 +23,15 @@
   <component name="ProjectId" id="1cJIM9KJgODvoqUDitijzsgDzkq" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="D:/software/visualvm_142/bin/visualvm.exe" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
@@ -64,29 +67,54 @@
       <updated>1590240218108</updated>
       <workItem from="1590240222083" duration="12521000" />
       <workItem from="1590287873398" duration="1207000" />
+      <workItem from="1590827386578" duration="3055000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1237" height="70" key="GridCell.Tab.0.bottom" timestamp="1590289117572">
-      <screen x="0" y="0" width="1280" height="720" />
+    <state x="786" y="213" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1590828411542">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="786" y="213" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1920.1057@0.23.1920.1057" timestamp="1590828411542" />
+    <state width="1072" height="358" key="GridCell.Tab.0.bottom" timestamp="1590830778089">
+      <screen x="0" y="23" width="1920" height="1057" />
     </state>
     <state width="1237" height="70" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1590289117572" />
-    <state width="1237" height="70" key="GridCell.Tab.0.center" timestamp="1590289117572">
-      <screen x="0" y="0" width="1280" height="720" />
+    <state width="1072" height="358" key="GridCell.Tab.0.bottom/0.23.1920.1057@0.23.1920.1057" timestamp="1590830778089" />
+    <state width="1072" height="358" key="GridCell.Tab.0.center" timestamp="1590830778089">
+      <screen x="0" y="23" width="1920" height="1057" />
     </state>
     <state width="1237" height="70" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1590289117572" />
-    <state width="1237" height="70" key="GridCell.Tab.0.left" timestamp="1590289117572">
-      <screen x="0" y="0" width="1280" height="720" />
+    <state width="1072" height="358" key="GridCell.Tab.0.center/0.23.1920.1057@0.23.1920.1057" timestamp="1590830778089" />
+    <state width="1072" height="358" key="GridCell.Tab.0.left" timestamp="1590830778088">
+      <screen x="0" y="23" width="1920" height="1057" />
     </state>
     <state width="1237" height="70" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1590289117572" />
-    <state width="1237" height="70" key="GridCell.Tab.0.right" timestamp="1590289117572">
-      <screen x="0" y="0" width="1280" height="720" />
+    <state width="1072" height="358" key="GridCell.Tab.0.left/0.23.1920.1057@0.23.1920.1057" timestamp="1590830778088" />
+    <state width="1072" height="358" key="GridCell.Tab.0.right" timestamp="1590830778089">
+      <screen x="0" y="23" width="1920" height="1057" />
     </state>
     <state width="1237" height="70" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1590289117572" />
+    <state width="1072" height="358" key="GridCell.Tab.0.right/0.23.1920.1057@0.23.1920.1057" timestamp="1590830778089" />
+    <state width="1072" height="358" key="GridCell.Tab.1.bottom" timestamp="1590830778090">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1072" height="358" key="GridCell.Tab.1.bottom/0.23.1920.1057@0.23.1920.1057" timestamp="1590830778090" />
+    <state width="1072" height="358" key="GridCell.Tab.1.center" timestamp="1590830778090">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1072" height="358" key="GridCell.Tab.1.center/0.23.1920.1057@0.23.1920.1057" timestamp="1590830778090" />
+    <state width="1072" height="358" key="GridCell.Tab.1.left" timestamp="1590830778089">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1072" height="358" key="GridCell.Tab.1.left/0.23.1920.1057@0.23.1920.1057" timestamp="1590830778089" />
+    <state width="1072" height="358" key="GridCell.Tab.1.right" timestamp="1590830778090">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1072" height="358" key="GridCell.Tab.1.right/0.23.1920.1057@0.23.1920.1057" timestamp="1590830778090" />
     <state x="179" y="0" key="SettingsEditor" timestamp="1590241374192">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
@@ -95,5 +123,16 @@
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="303" y="41" width="672" height="678" key="search.everywhere.popup/0.0.1280.720@0.0.1280.720" timestamp="1590252489059" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RedPacket/RedPacket.java</url>
+          <line>91</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
